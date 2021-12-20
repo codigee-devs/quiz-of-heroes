@@ -1,0 +1,314 @@
+[
+   {
+      "id":0,
+      "visible-name":{
+         "en":"Warrior",
+         "pl":"Wojownik"
+      },
+      "story":[
+         {
+            "id":0,
+            "description":{
+               "pl":"Zapraszam do wzięcia udziału w fantastycznej przygodzie. Możesz wybrać postać wojownika, który nie pamięta, kim jest lub maga, który rzucił na rycerza zły urok. Popchniesz akcję do przodu odpowiadając na pytania. Możesz korzystać z magicznych artefaktów, które pomogą Ci znaleźć właściwą odpowiedź. Jaki wynik osiągniesz? Czy uratujesz świat? Pochwal się swoim wynikiem elfim przyjaciołom, niewiastom w barze Oakwood lub swojej dziewczynie (możliwe, że powie ci, że jesteś za stary, żeby grać w jakieś głupie gry, ale warto spróbować). ",
+               "en":""
+            }
+         },
+         {
+            "id":1,
+            "description":{
+               "pl":"Podobno pierwsze myśli, jakie pojawiają się po przebudzeniu, wpływają na cały dzień. “O kurde, jak mnie boli noga” - pomyślał Roland. Mężczyzna obudził się w ciemnej, cuchnącej i nieznanej mu jaskini. Nie pamiętał, jak w ogóle się w niej znalazł. Z całych sił próbował sobie to przypomnieć, ale nic nie pomagało. Co gorsze, nagle uświadomił sobie, że nie pamięta niczego. Kim jest? Skąd pochodzi? Dlaczego ma na sobie zbroję? Jaki był wzór na pole trapezu? Tyle pytań bez odpowiedzi. Nagle zauważył leżącą na ziemi księgę. Podniósł ją, otworzył i odczytał kilka pytań.... ",
+               "en":""
+            }
+         },
+         {
+            "id":2,
+            "description":{
+               "pl":"“Nawet proste te zagadki. No i coś jednak pamiętam. To jak z jazdą na koniu - tego się nie zapomina. Szkoda, że musiało mi wypaść z głowy akurat to, kim jestem“ - powiedział Roland. “To dopiero początek” - odezwał się głos z księgi. Roland, mimo że był potężnej postury, przestraszył się. “Nie wierzę! Nie dość, że nie mam pojęcia, co ja tu robię, to jeszcze słyszę, co mówi do mnie książka. “To, że rozmawiamy, to twój najmniejszy problem” - odparła lektura - “Jedyną szansą, żebyś oszukał Twoje przeznaczenie i dowiedział się, kim jesteś, jest rozwiązywanie kolejnych zadań”. Mężczyzna westchnął, splunął i popatrzył na kolejne pytania. ",
+               "en":""
+            }
+         },
+         {
+            "id":3,
+            "description":{
+               "pl":"“No i mamy to! To teraz powiedz mi, kim jestem” - krzyknął mężczyzna. Ziemia się zatrzęsła, z książki buchnęła para… “Jesteś Roland...” - powiedział niski, poważny głos. Po tym nastąpiła cisza. “I to wszystko?” - zapytał nasz bohater. “Tak” - odparła książka. “No weź, nie bądź taka” - negocjował. “Gdy się człowiek spieszy, to się diabeł cieszy” - odparła książka. “Czyli widzę, że robisz wszystko, żeby zdenerwować diabła. Gorzej, że przy okazji wnerwiasz mnie” - mruknął. “Rozwiązuj lepiej następne zadania. Wszystkiego dowiesz się w swoim czasie”. ",
+               "en":""
+            }
+         },
+         {
+            "id":4,
+            "description":{
+               "pl":"“Dobra, przyznasz, że jestem niezły” - powiedział Roland. “Dopiero zacząłeś swoją drogę ku wolności. Ale dam Ci wskazówkę” - usłyszał. Potem znowu nastąpiła cisza. “No i gdzie ta wskazówka?” - spytał mężczyzna. “Tam w kącie”.. Na jednym z głazów leżał potężny miecz. Człowiek chwycił go w dłoń i poczuł, że kiedyś już z pewnością go trzymał. “Zajmuję się tworzeniem mieczy” - powiedział. “Nie kapuściana głowo… Masz na imię Roland” - odparła książka - Znasz jakiegoś Rolanda, który nie byłby rycerzem lub wojownikiem? Roland - to brzmi dumnie. Ale weź teraz tego nie przeżywaj, tylko rozwiązuj kolejne zadania. ",
+               "en":""
+            }
+         },
+         {
+            "id":5,
+            "description":{
+               "pl":"“No, no. Nie dość, że wojownik, to jeszcze mądry. Mówię oczywiście o sobie” - powiedział Roland. “Pewnie niewiasty za mną wzdychają, a chłopi śpiewają o mnie pieśni. Nie wszystek umrę” - rzekł rycerz. “Umrzesz i to wszystek, jeśli nie odpowiesz na kolejne pytania. Otwierając mnie, podjąłeś ryzyko” - odpowiedziała mu książka. “Chyba zwariowałaś. Nie godziłem się na coś takiego. “A kto mi cokolwiek udowodni. Przecież jestem tylko książką” - odparł zaczarowany przedmiot. ",
+               "en":""
+            }
+         },
+         {
+            "id":6,
+            "description":{
+               "pl":"“Powiem ci, że niektóre z tych pytań są trudne. Mogłabyś mi dać więcej artefaktów. Albo chociaż telefon do przyjaciela” - zagadał Roland. “Ale ty nie masz przyjaciół. Nie no, kilku miałeś. Jednak większość z nich częściej trenowała muskuły niż mózg. Na Zawiszę szkoda zasięgu. Próbuj z kolejnymi pytaniami, dasz radę samemu”. ",
+               "en":""
+            }
+         },
+         {
+            "id":7,
+            "description":{
+               "pl":"“Dobra, nie chcę mi się już tutaj siedzieć. Wydostanę się na świeże powietrze” - powiedział wojownik. Ruszył przed siebie. Po jakichś 5 minutach dotarł do miejsca, które kiedyś było wyjściem. Jednak olbrzymie głazy blokowały przejście. Rycerz wziął głęboki oddech i spróbował przepchnąć ogromny kamień. “Teraz nie dasz rady. Ale może pomogę zwiększyć twoje umiejętności. Siłę zdobywa się z wiedzy” - odezwała się książka. “Jesteś bezczelna” - odparł Roland. ",
+               "en":""
+            }
+         },
+         {
+            "id":8,
+            "description":{
+               "pl":"“Dobrze. Czy teraz dasz mi większą moc, żebym mógł przepchnąć ten głaz?” - spytał Roland. “Nie, ja nie dzielę się swoją mocą - odparła książka - Ale drugie  wyjście masz po lewej. Musisz tylko przejść jakieś 200 metrów”. “Jedno czego jestem pewny, to że nie mam sił na ciebie” - mruknął rycerz. ",
+               "en":""
+            }
+         },
+         {
+            "id":9,
+            "description":{
+               "pl":"Roland wyszedł na powietrze. Jego oczom ukazał się straszny widok. Krew, muchy, zapach rozkładających się ciał. Nie trzeba być detektywem, żeby domyślić się, że nie dalej niż tydzień temu odbyła się tu jakaś wielka bitwa. “I jak to skomentujesz?” - spytała książka. “Mam nadzieję, że wygraliśmy” - odpowiedział człowiek.”Ludzie są głupsi niż myślałam”. “Tak myślisz? No to daj mi kolejne pytania”...",
+               "en":""
+            }
+         },
+         {
+            "id":10,
+            "description":{
+               "pl":"“Wiadomo było, że mi się uda” - mruknął rycerz. “Opowiedz mi coś o tej wojnie… Z kim walczymy? Czy wykazałem się odwagą, w którejś z poprzednich bitew? Kto wygrywa? O co się bijemy?” - pytał wojownik. “Nie wszystko naraz. Odpowiedz na następne pytania i może coś ci odpowiem” - odparł głos z księgi.  ",
+               "en":""
+            }
+         },
+         {
+            "id":11,
+            "description":{
+               "pl":"“Naprawdę dobrze ci idzie z tymi pytaniami. Szczerze mówiąc, jak tak na ciebie patrzę, to nie mam pojęcia, jakim cudem odpowiedziałeś choćby na pierwsze z moich pytań. Zmierz się z kolejnym, a pokażę ci wizję z twojej przeszłości. Albo zginiesz, hahaha”. “Co w tym było śmiesznego?”. “W tym nic, ale coś sobie akurat przypomniałam”.  ",
+               "en":""
+            }
+         },
+         {
+            "id":12,
+            "description":{
+               "pl":"Nagle Roland ujrzał siebie na polu bitwy. Ciął mieczem głowy krasnoludom, wbijał im topory w nogi i... Nie chciałbym opisywać więcej szczegółów, ponieważ jestem bardzo wrażliwym narratorem, a ta gra przeznaczona jest również dla młodszych użytkowników. “Ale byłem mocny” - stwierdził Roland. “To prawda, umiałeś pokonać stworzenia, które sięgają ci do pasa. Powinni o tym śpiewać pieśni. Nawet jedną wymyśliłam: Wspaniały, legendarny ryceeerz Rolaaand, zabijał krasnoludy, co sięgały mu do kolaaan”. Wojownik umilkł i stwierdził, że lepiej już rozwiązywać kolejne zagadki. ",
+               "en":""
+            }
+         },
+         {
+            "id":13,
+            "description":{
+               "pl":"“To chyba jednak wstyd bić się z krasnoludami, prawda?” - zamyślił się Roland. “Brawo, gdybym miała dłonie, to bym ci klaskała”. “A o co my się właściwie z nimi bijemy? I dlaczego?” “Cała wojna rozpoczęła się od tego, że ludzki król stwierdził, że ludzie są lepszymi górnikami niż krasnoludy. To nie do końca jest prawdą, jeśli mam być szczera. Mam nadzieję, że mnie za to nie podrzesz. A nawet jeśli chciałbyś, to by ci się w sumie nie udało, bo jestem zaczarowana…  Później opowiem ci więcej. Zobaczmy, czy będziesz potrzebował magii, aby odpowiedzieć na kolejne pytania. ",
+               "en":""
+            }
+         },
+         {
+            "id":14,
+            "description":{
+               "pl":"“No i co było dalej? Co się stało potem? O co my się bijemy?” - pytał Roland. “Przecież ci powiedziałam. O to, kto jest lepszym górnikiem - człowiek, czy krasnolud. Walczycie o honor, o ile można to nazwać honorem. Krasnoludy się na was zdenerwowały. Zaczęliście wzajemnie się okradać, podpalać sobie wioski, a następnie obcinać głowy. Chciałabym cię uświadomić, że byłeś jednym z pierwszych, którzy w obronie honoru króla podpalili miasteczko tych niskich stworów”. “Nie wiem co mam powiedzieć” - powiedział Roland. “To rozwiąż kilka zagadek, to zawsze dobre na stres”.",
+               "en":""
+            }
+         },
+         {
+            "id":15,
+            "description":{
+               "pl":"Wtem Roland ujrzał kolejną wizję. Martwe dzieci krasnoludów, ludzkie kobiety czekające na mężczyzn, którzy nigdy nie wrócą do ich domów… A potem dumnego samego siebie na polu bitwy. “Jasny gwint, jest mi wstyd. Nie chcę na to patrzeć. Może to i dobrze, że straciłem pamięć”. “Mag jednak przypadkiem zrobił dużo dobrego” - powiedziała książka. “Jaki mag?” - zapytał wojownik. ”Najpierw odpowiedz na kilka kolejnych pytań…”",
+               "en":""
+            }
+         },
+         {
+            "id":16,
+            "description":{
+               "pl":"Mag Lorenzo to człowiek, który jest największym wrogiem waszego zwariowanego króla. Właściwie wasz król ma samych wrogów, poza swoim wojskiem. Trudno mi zrozumieć dlaczego tak wiernie mu służyłeś, będąc jego najodważniejszym wojownikiem. Z drugiej strony od dziecka wychowywałeś się na jego dworze. Mag sympatyzuje z krasnoludami i bał się, że ludzie wybiją tą całą pradawną rasę. A jeszcze 10 lat temu żyliście obok siebie i pomagaliście sobie wzajemnie. Lorenzo widząc co się dzieje, chciał rzucić czar na króla i na ciebie - jego największego wojownika. Udało mu się połowicznie. Zaczarował jedynie ciebie. Tak prawdę mówiąc, to chciał cię zmienić w mrówkę, a nie sprawić, żebyś zapomniał, kim jesteś. Ale nie ma tego złego, co by na dobre nie wyszło. Widzę, że pobladłeś… Rozwiąż lepiej kilka zagadek”. ",
+               "en":""
+            }
+         },
+         {
+            "id":17,
+            "description":{
+               "pl":"“A właściwie to skąd ty tyle wiesz o magu i o mnie?” - spytał Roland. “Bo to on mnie stworzył. Nie wiem, czy powinnam tyle o nim mówić” - zastanowiła się księga. “Możesz go tutaj przywołać? Da się to jakoś odkręcić? Czy możemy skończyć tą głupią wojnę? “Myślę, że można to skończyć. Jeśli powiesz, że nie chcesz walczyć, twoi ludzie pójdą za tobą, a nie za królem. Towarzysze broni cię kochają. A i krasnoludy szanują twoje wojskowe umiejętności. Damy radę. Ale nie myśl, że to koniec z pytaniami”. ",
+               "en":""
+            }
+         },
+         {
+            "id":18,
+            "description":{
+               "pl":"“Ktoś kiedyś powiedział, że historia ludzkości jest historią głupoty. Z historią krasnoludów wcale nie jest lepiej. Ale czas to zmienić. Przywołam do nas maga Lorenza” - powiedziała książka. “Serio? Przecież jakiś czas temu pytałem o to, czy możesz go przywołać”. “Akurat nie usłyszałam, musisz mówić głośniej”. ",
+               "en":""
+            }
+         },
+         {
+            "id":19,
+            "description":{
+               "pl":"“Loreeenzo, Loreeenzo” - krzyknęła książka “A więc to takiej magii używasz” - zaśmiał się Roland. W każdym razie poskutkowało. Nagle na horyzoncie pojawiła się zakapturzona postać z długą brodą. “Roland?” - zdumiał się mag. “Powinieneś być mrówką” - mówiąc to, skierował na niego różdżkę. “Zostaw go Lorenzo!” - krzyknęła książka - “Nie udało ci się go zmienić w mrówkę, ale udało ci się wpłynąć na poglądy Rolanda dotyczące wojny. Nasz rycerz ma już dość rozlewu krwi” - powiedział magiczny przedmiot. Wojownik streścił ostatnie godziny i bohaterowie podali sobie ręce. “Mogę porozwiązywać kilka zagadek razem z tobą?” - spytał mag. “Zapraszam, zapraszam. Co dwie głowy to nie jedna” - odparł wojownik. ",
+               "en":""
+            }
+         },
+         {
+            "id":20,
+            "description":{
+               "pl":"“Gratuluję Rolandzie! Nie dość, że wykazałeś się niesamowitą wiedzą, to jeszcze zmądrzałeś. Udało ci się rozwiązać wszystkie moje zagadki. Z pewnością będą śpiewać o tobie pieśni. A teraz nie trać czasu, tylko idźcie z Lorenzo zaprowadzić pokój na tej ziemi. Jeżeli masz ochotę na kolejne zagadki, rozpocznij grę od początku. Przyznam, że jestem pod wrażeniem, a nie jest łatwo mi zaimponować”. ",
+               "en":""
+            }
+         }
+      ]
+   },
+   {
+      "id":1,
+      "visible-name":{
+         "en":"Wizard",
+         "pl":"Mag"
+      },
+      "story":[
+         {
+            "id":0,
+            "description":{
+               "pl":"Zapraszam do wzięcia udziału w fantastycznej przygodzie. Możesz wybrać postać wojownika, który nie pamięta, kim jest lub maga, który rzucił na rycerza zły urok. Popchniesz akcję do przodu odpowiadając na pytania. Możesz korzystać z magicznych artefaktów, które pomogą Ci znaleźć właściwą odpowiedź. Jaki wynik osiągniesz? Czy uratujesz świat? Pochwal się swoim wynikiem elfim przyjaciołom, niewiastom w barze Oakwood lub swojej dziewczynie (możliwe, że powie ci, że jesteś za stary, żeby grać w jakieś głupie gry, ale warto spróbować). ",
+               "en":""
+            }
+         },
+         {
+            "id":1,
+            "description":{
+               "pl":"Mag Lorenzo siedział zrozpaczony przy stole w swojej chatce. Powodów do rozpaczy było sporo. Wojna rozpętana przez złego króla niszczyła kraj. Pradawny ród krasnoludów, wśród których czarodziej miał sporo przyjaciół, mógł wyginąć przez wojnę. Jakby tego było mało, drużyna, której kibicował przegrała. Co mógł zrobić, żeby uratować świat? Rozwiązywanie zagadek może nie było wówczas najlepszym pomysłem, ale z pewnością nie mogło pogorszyć sytuacji…",
+               "en":""
+            }
+         },
+         {
+            "id":2,
+            "description":{
+               "pl":"Zagadki zawsze są inspirujące. Lorenzo podrapał się po głowie, krzyknął: “Eureka, zamienię króla w zwierzaka! Tym sposobem krasnoludy będą uratowane. A przyszły król na pewno nie może być tak głupi jak ten. Jestem geniuszem!”. Zadowolony mag stwierdził, że zasłużył na rozwiązanie kilku zagadek. ",
+               "en":""
+            }
+         },
+         {
+            "id":3,
+            "description":{
+               "pl":"Mag postanowił potrenować swój czar. Nie od razu Rzym zbudowano i nie od razu króla w mrówkę zmieniono. Trenował na biednych, nieświadomych niczego gołębiach. W większości przypadków mu się udało. Oczywiście, bywały też momenty, kiedy gołębie zmieniały się w słonie ze skrzydłami, delfiny lub ludzi. “No, jestem już gotowy” - powiedział nagle Lorenzo, mimo że delfin na podłodze wskazywałby na coś innego. Ptaki odetchnęły z ulgą. “Teraz rozwiążę sobie mały quiz, a jutro ruszę do akcji.”",
+               "en":""
+            }
+         },
+         {
+            "id":4,
+            "description":{
+               "pl":"Lorenzo był dobrym człowiekiem i całkiem utalentowanym magiem, ale bywał naprawdę roztargniony. W każdą podróż brał ze sobą swoją magiczną księgę, którą sam stworzył. Taki magiczny przedmiot to dobry towarzysz podróży, ponieważ umie mówić w ciekawy sposób i zna się na zagadkach jak mało kto. Zresztą zobacz sam, jakie zagadki przygotowała. ",
+               "en":""
+            }
+         },
+         {
+            "id":5,
+            "description":{
+               "pl":"Mag usiłował sobie przypomnieć zaklęcie na teleportację, ale cały czas mu się nie udawało. “Pamięć jest zawodna… Pół semestru uczyłem się tego na czarodziejskich studiach. Jednak jak człowiek nie używa, to zapomina. Na co dzień korzystam z bardziej przydatnych czarów, jak na przykład czar na lody orzechowe” - mówił sam do siebie. Mag westchnął głośno i ruszył do stajni po swojego ukochanego konia. W podróży wspierał się jedynie czarem, dzięki któremu zwierzę wiedziało, w którą stronę jechać, a on mógł skupić się na zagadkach...",
+               "en":""
+            }
+         },
+         {
+            "id":6,
+            "description":{
+               "pl":"Lorenzo dojechał w okolice królewskiego zamku. “Teraz muszę się przebrać, żeby nikt mnie nie poznał i żebym mógł spokojnie wejść do pałacu” - powiedział do swojej magicznej książki. “Ok” - odpowiedziała mu. Mag założył okulary i kaptur. “Kim jesteś, nie poznaje cię” - krzyknęła księga. Zadowolony z siebie, poczciwy mag, który miał problemy z rozumieniem ironii, ruszył w kierunku imponującego budynku. Spacer zajął mu kilka minut. W tym czasie rozwiąż kilka zagadek.  ",
+               "en":""
+            }
+         },
+         {
+            "id":7,
+            "description":{
+               "pl":"Mag podszedł w okolice bramy. “Lorenzo? Czego tutaj szukasz?” - spytał go strażnik. Czarodziej nie był dobry w kłamaniu. “Aeaaaeee” - odpowiedział po głębszym zastanowieniu. Strażnik zrobił groźną minę i ruszył w kierunku czarodzieja, który błyskawicznie wyjął różdżkę i unieszkodliwił wojownika. “Chyba lepiej będzie, jeśli przypomnę ci zaklęcie na niewidzialność” - podpowiedziała mu książka. “Tak, przypomnij proszę i daj kilka zagadek dla rozluźnienia atmosfery, bo za bardzo się zestresowałem”. ",
+               "en":""
+            }
+         },
+         {
+            "id":8,
+            "description":{
+               "pl":"To, że ktoś jest niewidzialny, nie oznacza, że umie poruszać się bezszelestnie. Nawet jeśli jest magiem. Chyba już wspomniano, że mag był roztrzepany. Droga do komnaty króla nie była prosta. Poza tym Lorenzo wszedł do niej chyba w najgorszym możliwym momencie. W środku było kilkunastu najlepszych rycerzy, w tym wielki Roland. Żołnierze naradzali się, w jaki sposób ostatecznie pokonać krasnoludy. “Po moim trupie” - krzyknął niespodziewanie mag, który wszystko sobie zaplanował, ale słabo. Oczom króla ukazała się dłoń z różdżką, ponieważ zaklęcie niewidzialności przestawało działać. “Apontio!” - krzyknął mag i czar trafił Rolanda. Rycerz zniknął razem z książką. Lorenzo chciał trafić czarem również króla, ale w tym czasie wszczęto alarm. W sali pojawił się czarnoksiężnik, który służył królowi. “Lorenzo, Lorenzo…” - mruknął. “Myślałem, że zajmujesz się rozwiązywaniem zagadek na emeryturze, a nie że buntujesz się przeciwko naszemu władcy”. “A żebyś wiedział, że lubię zagadki. Na pewno nie rozwiążesz tego…” ",
+               "en":""
+            }
+         },
+         {
+            "id":9,
+            "description":{
+               "pl":"Okazało się, że przeciwnik Lorenzo był całkiem niezły w zagadkach. Co więcej, był silniejszy fizycznie i znał więcej czarów. Mag trafił do lochów. Martwił się o to, co stało się z jego księgą i czy na pewno czar zadziałał na Rolanda. Poza tym specjalnie nie narzekał - w końcu umiał sobie wyczarować lody orzechowe i nie musiał jeść więziennego jedzenia. Poza tym to była dla niego dobra okazja, żeby odpocząć i porozwiązywać trochę quizów. ",
+               "en":""
+            }
+         },
+         {
+            "id":10,
+            "description":{
+               "pl":"-Gdzie jest Roland? - zapytał strażnik więzienny, który przyszedł obudzić Lorenzo. “Jeśli wszystko poszło zgodnie z planem, to wasz ulubiony rycerz jest aktualnie mrówką. Jednak, będąc szczerym, prawie nic nie poszło zgodnie z planem, więc muszę odpowiedzieć, że nie wiem. “Nasz mag powiedział, że użyłeś połączenia 2 zaklęć - przeniosłeś Rolanda daleko stąd i dodatkowo najprawdopodobniej wpłynąłeś jakoś na jego pamięć” - mruknął strażnik. “No widzisz, zawsze coś pomylę” - westchnął Lorenzo. “Powiem więcej, jak rozwiążesz tę zagadkę”...",
+               "en":""
+            }
+         },
+         {
+            "id":11,
+            "description":{
+               "pl":"Strażnik zaczął tracić cierpliwość. “Albo powiesz mi gdzie on jest albo inaczej pogadamy”. “Inaczej, to znaczy jak?” - spytał Lorenzo. “Umiem kilka języków”. Strażnik wyciągnął miecz. Lorenzo był nieco zażenowany. “Naprawdę myślisz, że stanę z tobą do walki fizycznej?” Mag wyciągnął różdżkę z tylnej kieszeni. “Może i połamaliście mi moją ulubioną różdżkę, ale zawsze na wszelki wypadek noszę kilka zapasowych. Antormondo!” - krzyknął. Jego przeciwnik zmienił się w gołębia. Mag się zdziwił, ale stwierdził, że wyszło całkiem nieźle. Wziął klucze od ptaka i wyszedł z lochów. Wtedy przypomniała mu się zagadka...",
+               "en":""
+            }
+         },
+         {
+            "id":12,
+            "description":{
+               "pl":"Dzięki tym ćwiczeniom umysłu, magowi przypomniało się zaklęcie na niewidzialność. Ruszył piwnicami aż do wyjścia z zamku. Stwierdził, że nie będzie atakował teraz króla, bo nie da sobie rady samemu. Tym bardziej, że po jego ataku, władca z pewnością otoczył się jeszcze lepszą ochroną. Przywołał swojego konia i postanowił ruszyć do domu, aby obmyślić kolejny plan. Po drodze zatrzymał się w gospodzie krasnoludów. Liczył, że spotka tam Morrisa - jego przyjaciela i wielkiego fana zagadek. Przygotował dla niego coś specjalnego… ",
+               "en":""
+            }
+         },
+         {
+            "id":13,
+            "description":{
+               "pl":"“Morris! Ale niespodzianka!” - krzyknął Lorenzo. “A kogo się spodziewałeś? Krasnoludka od Królewny Śnieżki? Zawsze siedzę w tym barze. Dobrze cię widzieć. Przyjaciele usiedli przy barze i zamówili po piwie korzennym. “Zaraz opowiem Ci o tym, co działo się ostatnio u mnie. Postawiłem się królowi i jego rycerzowi Rolandowi. Prawie zamieniłem ich w mrówki. Siedziałem w lochu. Ale może porozmawiajmy o tym później, zacznijmy od czegoś bardziej istotnego, czyli od zagadek” - powiedział mag. ",
+               "en":""
+            }
+         },
+         {
+            "id":14,
+            "description":{
+               "pl":"Feranzo opowiedział Morrisowi swoją historię. “Szkoda, że nie udało ci się z królem. Ale to i tak fantastyczna wiadomość, że zaczarowałeś Rolanda. Albo przynajmniej miejmy taką nadzieję. Pewnie jako krasnoludy zyskamy trochę czasu.Co zamierzasz zrobić teraz?”. “Musimy coś wymyślić, żeby unieszkodliwić króla”. “No i to rozumiem. Oferuję pomoc. Tak samo, jak pomogę ci z kolejnymi zagadkami…” ",
+               "en":""
+            }
+         },
+         {
+            "id":15,
+            "description":{
+               "pl":"“Eh, wierzę, że uda mi się odzyskać moją magiczną księgę. Zaczarowałem ją w taki sposób, że powinna chcieć do mnie wrócić. Może ona powie mi, co stało się z Rolandem” - westchnął Lorenzo. “Ostatnio zadała mi kilka naprawdę trudnych zagadek”. ",
+               "en":""
+            }
+         },
+         {
+            "id":16,
+            "description":{
+               "pl":"“Tylko na to cię stać?” - zaśmiał się Morris. “Stać mnie jeszcze na minimum dwa piwa. Ja stawiam!” “Między nami jest taka różnica - ja jestem mądry, a tobie się wydaje, że jesteś mądry, haha. A mi się wydaje, że z tymi zagadkami sobie nie poradzisz…” ",
+               "en":""
+            }
+         },
+         {
+            "id":17,
+            "description":{
+               "pl":"Mag usłyszał jakiś dźwięk. Coś jakby ktoś go wołał z oddali. “Oj, chyba mają w tym pubie za mocne piwo. A przynajmniej za mocne jak na moją głowę” - powiedział. W tym momencie postanowił, że odstawi pokal, zamówi wyciskany sok z owoców i zmierzy się z kilkoma zagadkami. ",
+               "en":""
+            }
+         },
+         {
+            "id":18,
+            "description":{
+               "pl":"“Loreeenzo, Loreeenzo” - nagle mag usłyszał wyraźniejsze wołanie. Okazało się, że to nie było żadne złudzenie. Czarodziej pożegnał się z Morrisem i teleportował się w okolice miejsca, z którego dochodziło. Raz do roku to i garbaty się wyprostuje. Okazało się, że wołała go jego księga. A z nią był ten parszywy rycerz Roland. Lorenzo wyciągnął różdżkę.  “Zostaw go Lorenzo!” - krzyknęła książka - “Nie udało ci się go zmienić w mrówkę, ale udało ci się wpłynąć na poglądy Rolanda dotyczące wojny. Nasz rycerz ma już dość rozlewu krwi” - powiedział magiczny przedmiot. Wojownik opowiedział o tym, że przez czar stracił sporą część pamięci - nie wiedział kim jest, nie miał pojęcia o wojnie. Księga pokazała mu, do czego doprowadziły bitwy. “Chcę to wszystko naprawić. Razem możemy odwrócić bieg historii”. Bohaterowie podali sobie ręce, mag użył czaru, aby rozpalić ognisko i zadał rycerzowi kilka pytań. ",
+               "en":""
+            }
+         },
+         {
+            "id":19,
+            "description":{
+               "pl":"Lorenzo dokonał dziś niesamowitych rzeczy. Obmyślili z Rolandem plan, w jaki sposób zatrzymać wojnę. Stworzył przepyszne kiełbaski wegetariańskie (tak, z pomocą magii to możliwe). Zyskał wspaniałego przyjaciela. Co więcej, zmierzył się z bardzo wymagającymi zagadkami. ",
+               "en":""
+            }
+         },
+         {
+            "id":20,
+            "description":{
+               "pl":"Gratulacje magu. Nie dość, że wykazałeś się niesamowitą wiedzą, to w końcu zapamiętałeś czar na teleportację. Udało ci się rozwiązać wszystkie zagadki. Z pewnością będą śpiewać o tobie pieśni. A teraz nie trać czasu, tylko idźcie z Rolandem zaprowadzić pokój na waszej ziemi. A jeżeli masz ochotę na kolejne zagadki, rozpocznij grę od początku. ",
+               "en":""
+            }
+         }
+      ]
+   }
+]

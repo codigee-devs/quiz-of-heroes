@@ -1,0 +1,34 @@
+[
+    {
+        "id": 0,
+        "name": "destroy-question"
+    },
+    {
+        "id": 1,
+        "name": "hide-one-answer"
+    },
+    {
+        "id": 2,
+        "name": "more-time"
+    },
+    {
+        "id": 3,
+        "name": "god-question"
+    },
+    {
+        "id": 4,
+        "name": "hide-two-answers"
+    },
+    {
+        "id": 5,
+        "name": "select_half_answers"
+    },
+    {
+        "id": 6,
+        "name": "less_opacity_two_wrong_answers"
+    },
+    {
+        "id": 7,
+        "name": "add-one-life"
+    }
+]

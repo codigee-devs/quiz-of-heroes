@@ -1,0 +1,1 @@
+class InvalidParametrException implements Exception{}

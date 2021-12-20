@@ -1,0 +1,186 @@
+[
+    {
+        "id": 0,
+        "name": "bomb",
+        "actions_ids": [0],
+        "asset": {
+            "path": "assets/images/svg/app_bomb.svg",
+            "type": "image/svg"
+        },
+        "description": {
+            "visible-name": {
+                "en": "",
+                "pl": "Bomba"
+            },
+            "action-description": {
+                "en": "",
+                "pl": "Niszczy pytanie i zastępuje je kolejnym."
+            },
+            "artefact-description": {
+                "en": "",
+                "pl": "Potężna eksplozja odwraca uwagę księgi od właśnie zadanego pytania. Otrząsnąwszy się z zaskoczenia i po z trzepaniu z siebie kurzu prosisz i powtórzenie pytania. Zakłopotana księga zadaje inne pytanie udając, że właśnie o to przed chwilą pytała."
+            }
+        }
+    },
+    {
+        "id": 1,
+        "name": "sword",
+        "actions_ids": [1],
+        "asset": {
+            "path": "assets/images/svg/app_sword.svg",
+            "type": "image/svg"
+        },
+        "description": {
+            "visible-name": {
+                "en": "",
+                "pl": "Brzytwa"
+            },
+            "action-description": {
+                "en": "",
+                "pl": "Zabija jedną niepoprawną odpowiedź"
+            },
+            "artefact-description": {
+                "en": "",
+                "pl": "Coś Ci świta. Słyszysz jakieś dzwony, ale nie do końca wiesz, w którym kościele biją. Lepiej dmuchać na zimne. Przyglądasz się czterem odpowiedzią i krótkim, zdecydowanym cięciem eliminujesz w swojej głowie jedno z nich."
+            }
+        }
+    },
+    {
+        "id": 2,
+        "name": "hourglass",
+        "actions_ids": [2],
+        "asset": {
+            "path": "assets/images/svg/app_hourglass.svg",
+            "type": "image/svg"
+        },
+        "description": {
+            "visible-name": {
+                "en": "",
+                "pl": "Klepsydra"
+            },
+            "action-description": {
+                "en": "",
+                "pl": "Dodatkowy czas na odpowiedź."
+            },
+            "artefact-description": {
+                "en": "",
+                "pl": "Na pewno znasz odpowiedź na to pytanie i jedyne co potrzebujesz to trochę więcej czasu. Wyciągasz z kieszeni artefakt - klepsydrę. Księga zna zasady gry. Przewraca oczami mówiąc, że da Ci jeszcze chwilkę. Nie googluj odpowiedzi, chwilka to nie wieczność."
+            }
+        }
+    },
+    {
+        "id": 3,
+        "name": "diamond",
+        "actions_ids": [3],
+        "asset": {
+            "path": "assets/images/svg/app_diamond.svg",
+            "type": "image/svg"
+        },
+        "description": {
+            "visible-name": {
+                "en": "",
+                "pl": "Diament mądrości"
+            },
+            "action-description": {
+                "en": "",
+                "pl": "Chroni przed utratą życia w przypadku złej odpowiedzi."
+            },
+            "artefact-description": {
+                "en": "",
+                "pl": "Starożytni mówili, że jak się ma miękkie serce, to trzeba mieć twardą dupę. Ten krasnoludzki artefakt działa właśnie w ten sposób  - chroni Twoją rzyć przed utratą żyć. Nie znasz odpowiedzi? Nic Ci nie grozi."
+            }
+        }
+    },
+    {
+        "id": 4,
+        "name": "key",
+        "actions_ids": [4],
+        "asset": {
+            "path": "assets/images/svg/app_key.svg",
+            "type": "image/svg"
+        },
+        "description": {
+            "visible-name": {
+                "en": "",
+                "pl": "Klucz do wiedzy"
+            },
+            "action-description": {
+                "en": "",
+                "pl": "Klucz wyklucza dwie niepoprawne odpowiedzi."
+            },
+            "artefact-description": {
+                "en": "",
+                "pl": "Pradawne powiedzenie powtarzane w kółko przez rodziców wszystkim dzieciom na świecie brzmi: “ucz się ucz, bo wiedza to do potęgi klucz”. Jeżeli nigdy tego nie pojąłeś to masz właśnie okazję przekonać się o co chodziło. Klucze do potęgi istnieją naprawdę."
+            }
+        }
+    },
+    {
+        "id": 5,
+        "name": "coin",
+        "actions_ids": [5],
+        "asset": {
+            "path": "assets/images/svg/app_coin.svg",
+            "type": "image/svg"
+        },
+        "description": {
+            "visible-name": {
+                "en": "",
+                "pl": "Żeton szczęścia"
+            },
+            "action-description": {
+                "en": "",
+                "pl": "Rzuć monetą i ponaj 2 odpowiedzi. Jedną poprawną, drugą złą."
+            },
+            "artefact-description": {
+                "en": "",
+                "pl": "Magiczny przedmiot wykorzystywany w sytuacjach beznadziejnych. Nie daj się zwieść jego podpowiedziom. Żeton zawsze wskaże Ci dwie odpowiedzi. Pamiętaj, że tylko jedna z nich jest poprawna."
+            }
+        }
+    },
+    {
+        "id": 6,
+        "name": "paper",
+        "actions_ids": [6],
+        "asset": {
+            "path": "assets/images/svg/app_paper.svg",
+            "type": "image/svg"
+        },
+        "description": {
+            "visible-name": {
+                "en": "",
+                "pl": "Tajemniczy skrypt"
+            },
+            "action-description": {
+                "en": "",
+                "pl": "Po odczytaniu skryptu łatwiej Ci będzie wskazać właściwą odpowiedź."
+            },
+            "artefact-description": {
+                "en": "",
+                "pl": "epiej nie pokazywać tego skryptu książce. Ostatnio zastanawiała się gdzie znajdują się niektóre jej strony. Zerknij w skrypt ukradkiem, jego moc z pewnością podsunie Ci jakiś pomysł. "
+            }
+        }
+    },
+    {
+        "id": 7,
+        "name": "potion",
+        "actions_ids": [7],
+        "asset": {
+            "path": "assets/images/svg/app_health_potion.svg",
+            "type": "image/svg"
+        },
+        "description": {
+            "visible-name": {
+                "en": "",
+                "pl": "Potion życia"
+            },
+            "action-description": {
+                "en": "",
+                "pl": "Dodaje siły i witalności."
+            },
+            "artefact-description": {
+                "en": "",
+                "pl": "Łykniem bo odwykniem. Ten trunek stawia na nogi nawet byka. Mocna rzecz, która włączy Ci tryb nieśmiertelności. Poczujesz, że możesz wszystko. Dla jednych energy drink średniowiecza, dla drugich zwykła wóda."
+            }
+        }
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "id": 0,
+        "health": 5,
+        "items": [
+            {
+                "artefact_id": 0,
+                "count": 2
+            },
+            {
+                "artefact_id": 1,
+                "count": 1
+            }
+        ],
+        "asset": {
+            "path": "assets/images/svg/app_warrior.svg",
+            "type": "image/svg"
+        },
+        "description": {
+            "visible-name": {
+                "en": "Warrior",
+                "pl": "Wojownik"
+            }
+        }
+    },
+    {
+        "id": 1,
+        "health": 2,
+        "items": [
+            {
+                "artefact_id": 0,
+                "count": 2
+            },
+            {
+                "artefact_id": 6,
+                "count": 2
+            },
+            {
+                "artefact_id": 7,
+                "count": 2
+            },
+            {
+                "artefact_id": 5,
+                "count": 1
+            }
+        ],
+        "asset": {
+            "path": "assets/images/svg/app_witch.svg",
+            "type": "image/svg"
+        },
+        "description": {
+            "visible-name": {
+                "en": "Wizard",
+                "pl": "Mag"
+            }
+        }
+    }
+]

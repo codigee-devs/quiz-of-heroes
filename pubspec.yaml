@@ -1,0 +1,139 @@
+name: project_skeleton
+description: Skeleton, empty project.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 0.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+
+  # CHECK NEW LIB'S VERSIONS AT PUB.DEV!
+  # Core, code extensions
+  dartz: ^0.10.0-nullsafety.1
+  kt_dart: ^0.9.0
+  logging: ^1.0.1
+  path_provider: ^2.0.1
+  supercharged: ^2.0.0
+  firebase_auth: ^1.1.3
+  firebase_core: ^1.1.0
+  firebase_analytics: ^8.0.3
+  firebase_crashlytics: ^2.0.2
+  audioplayers: ^0.18.3
+
+  #database
+  flutter_secure_storage: ^4.2.0
+  cloud_firestore: ^2.0.0
+  hive: ^2.0.4
+  hive_flutter: ^1.0.0
+
+  # Data & objects management
+  freezed_annotation: ^0.14.1
+  json_annotation: ^4.0.1
+
+  # Dependency injection
+  get_it: ^6.1.1
+  injectable: ^1.3.0
+
+  # Devices view testing todo before release comment it and remvoe
+  device_preview: ^0.7.1
+
+
+  # Widgets & UI Utils
+  flutter_svg: ^0.21.0+1
+  auto_size_text: ^3.0.0-nullsafety.0
+  fading_edge_scrollview: ^2.0.0
+
+
+  # State management & navigator
+  auto_route: ^2.0.2
+  flutter_bloc: ^7.0.0
+  flutter_hooks: ^0.16.0
+  sprintf: ^6.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  effective_dart: ^1.3.0
+
+  # Generators
+  auto_route_generator: ^2.0.1
+  build_runner: ^2.0.2
+  freezed: ^0.14.1+3
+  hive_generator: ^1.1.0
+  injectable_generator: ^1.3.0
+  json_serializable: ^4.1.1
+  # Testing
+  mockito: ^5.0.7
+  bloc_test: ^8.0.0
+  
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/png/
+    - assets/images/svg/
+    - assets/sounds/
+    - assets/jsons/
+    - assets/language/
+
+    # To add assets to your application, add an assets section, like this:
+    # assets:
+    #   - assets/images/png//a_dot_burr.png
+    #   - assets/images/png//a_dot_ham.png
+
+    # An image asset can refer to one or more resolution-specific "variants", see
+    # https://flutter.dev/assets-and-images/#resolution-aware.
+
+    # For details regarding adding assets from package dependencies, see
+    # https://flutter.dev/assets-and-images/#from-packages
+
+    # To add custom fonts to your application, add a fonts section here,
+    # in this "flutter" section. Each entry in this list should have a
+    # "family" key with the font family name, and a "fonts" key with a
+    # list giving the asset and other descriptors for the font. For
+    # example:
+    # fonts:
+    #   - family: Schyler
+    #     fonts:
+    #       - asset: assets/fonts/Schyler-Regular.ttf
+    #       - asset: assets/fonts/Schyler-Italic.ttf
+    #         style: italic
+    #   - family: Trajan Pro
+    #     fonts:
+    #       - asset: assets/fonts/TrajanPro.ttf
+    #       - asset: assets/fonts/TrajanPro_Bold.ttf
+    #         weight: 700
+    #
+    # For details regarding fonts from package dependencies,
+    # see https://flutter.dev/custom-fonts/#from-packages
+  fonts:
+    - family: Poppins
+      fonts: 
+         - asset: assets/fonts/poppins_Thin.ttf
+           weight: 100
+         - asset: assets/fonts/poppins_ExtraLight.ttf
+           weight: 200
+         - asset: assets/fonts/poppins_Light.ttf
+           weight: 300
+         - asset: assets/fonts/poppins_Regular.ttf
+           weight: 400
+         - asset: assets/fonts/poppins_Medium.ttf
+           weight: 500
+         - asset: assets/fonts/poppins_SemiBold.ttf
+           weight: 600
+         - asset: assets/fonts/poppins_bold.ttf
+           weight: 700
+         - asset: assets/fonts/poppins_ExtraBold.ttf
+           weight: 800
+         - asset: assets/fonts/poppins_Black.ttf
+           weight: 900
+
+flutter_intl:
+  enabled: false

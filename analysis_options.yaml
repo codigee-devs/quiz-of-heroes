@@ -1,0 +1,35 @@
+include: package:effective_dart/analysis_options.yaml
+
+analyzer:
+  enable-experiment:
+    - non-nullable
+  exclude:
+    - "**/*.g.dart"
+    - "**/*.gr.dart"
+    - "**/*.freezed.dart"
+    - "**/*.config.dart"
+    - "**/l10n.dart"
+    - "**/messages_en.dart"
+    - "**/messages_pl.dart"
+    - "lib/core/language/**"
+
+linter:
+  rules:
+    public_member_api_docs: false
+    lines_longer_than_80_chars: false
+    avoid_classes_with_only_static_members: false
+    one_member_abstracts: false
+    avoid_function_literals_in_foreach_calls: false
+    always_put_required_named_parameters_first: true
+    prefer_const_constructors_in_immutables: true
+    avoid_unnecessary_containers: true
+    unnecessary_nullable_for_final_variable_declarations: true
+    avoid_print: true
+    prefer_expression_function_bodies: true
+    throw_in_finally: true
+    prefer_void_to_null: true
+    always_declare_return_types: true
+    avoid_returning_this: true
+    avoid_unused_constructor_parameters: true
+    avoid_void_async: true
+    empty_catches: true
